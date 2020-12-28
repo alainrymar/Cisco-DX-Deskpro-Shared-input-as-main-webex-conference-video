@@ -1,0 +1,34 @@
+<Extensions>
+  <Version>1.7</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>panel_1</PanelId>
+    <Origin>local</Origin>
+    <Type>Statusbar</Type>
+    <Icon>Lightbulb</Icon>
+    <Name>Panel</Name>
+    <ActivityType>Custom</ActivityType>
+    <Page>
+      <Name>Main Video source</Name>
+      <Row>
+        <Name>Camera DX</Name>
+        <Widget>
+          <WidgetId>DX</WidgetId>
+          <Name>DX</Name>
+          <Type>Button</Type>
+          <Options>size=2</Options>
+        </Widget>
+      </Row>
+      <Row>
+        <Name>Camer Externe</Name>
+        <Widget>
+          <WidgetId>Externe</WidgetId>
+          <Name>Externe</Name>
+          <Type>Button</Type>
+          <Options>size=2</Options>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
