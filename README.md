@@ -6,3 +6,5 @@ video capacity offered by the conferenceing plateform (Like Full HD, 30Fps).
 
 This script reroute the shared content as the main video source that reaches the conferencing plateform (eg: Webex).
 You get the Script that needs to be uploaded in the Video system (DX/WebexDeskPro) and the XML file that creates the new panel containing the 2 user buttons.
+
+WARNING: Based on the issue logged, there is now a .js code for DX and another .js code for Deskpro. Check Issue for details.
